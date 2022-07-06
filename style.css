@@ -1,0 +1,125 @@
+/* jika ingin styling sebuah element tertentu maka cukup ketik saja nama tag tersebut*/
+
+body {
+    font-family: sans-serif;
+}
+/* jika attribute berupa class, maka selector harus berawalan dengan (.)*/
+.anchor-list {
+    font-size: 150%;
+    font-family: courier;
+}
+
+.content {
+    text-align: center;
+}
+
+/* child selector (>) digunakan ketika rule akan diterapkan pada seluruh elemen paragraf yang berada di dalam elemen div secara langsung. Dalam arti lain, elemen paragraf merupakan anak dari elemen div secara langsung*/
+
+/* adapun jenis descendant selector mirip seperti child selector namun hierarkinya lebih luas, karena rule akan diterapkan pada seluruh elemen yang menjadi turunannya walaupun secara tidak langsung*/
+details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+
+details > p {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+/*body {
+    background-image: url(assets/assets/image/eula.jpg);
+    background-size: contain;
+    color: white;
+    background-attachment: scroll;
+}*/
+
+.flex-container {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: DodgerBlue;
+  
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  float: center;
+  font-size: 10px;
+}
+
+ .fancy {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+}
+ 
+p.fancy {
+    text-shadow: 4px 4px 3px #00c8eb;
+}
+/* untuk element yang menggunakan attribute id maka menggunakan # */
+#wisata {
+    background-color: skyblue;
+}
+
+}
+/* <a> element yang menerapkan href attribut */
+a[href] {
+    color: blue;
+}
+ 
+/* <a> element yang menerapkan nilai pada href dengan awalan "#" */
+a[href^="#"] {
+    background-color: cyan;
+}
+ 
+/* <a> element yang menerapkan nilai pada href yang mengandung teks "example" */
+a[href*="example"] {
+    background-color: silver;
+}
+ 
+/* <a> element yang menerapkan nilai pada href yang mengandung teks "insensitive" tidak mementingkan huruf kapital*/
+a[href*="insensitive" i] {
+    color: white;
+}
+ 
+/* <a> element yang menerapkan nilai pada href dengan akhiran ".org" */
+a[href$=".org"] {
+    color: red;
+}
+
+div > p {
+    color: red;
+    float: center;
+}
+
+/* pseudo class hover digunakan ketika kursor mouse diarahkan ke sebuah teks ataupun elemen lain akan mengalami perubahan sesuai declaration yg ada di selector hover */
+div > p:hover {
+    color: green;
+}
+
+/* pseudo element digunakan pada element yg ada di code html*/
+/* rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi */
+a:visited {
+   color: green;
+}
+ 
+/* rule akan diterapkan pada sebuah tautan ketika diarahkan dengan kursor */
+a:hover {
+   color: pink;
+}
+ 
+/* rule akan diterapkan pada sebuah tautan ketika ditekan */
+
+a:active {
+   color:orange;
+}
+
+/* ini comment yang digunakan di css */
