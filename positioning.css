@@ -1,0 +1,67 @@
+.box > div {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.first {
+    background-color: #60d0a8;
+}
+
+.second {
+    background-color: #6495ed;
+    /*margin-top: 20px;*/
+    position: relative;
+    top: 60px;
+    left: 50px;
+}
+
+.third {
+    background-color: #ffa500;
+}
+
+/*.parent {
+    background-color: #aaaaaa;
+    padding: 12px;
+    width: 500px;
+    margin: 0 auto;
+    border: 4px solid black;
+}
+
+h1 {
+    width: 250px;
+}
+
+.absolute {
+    position: absolute;
+    top: 0;
+    left: 50px;
+}*/
+
+body {
+    min-height: 200vh;
+}
+
+h1{
+    padding: 10px;
+      background-color: #AAAAAA;
+      margin: 0;
+      width: 100%;
+}
+
+.absolute {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+img {
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+.animated-text {
+    color: tomato;
+    font-size: 2em;
+    
+}
