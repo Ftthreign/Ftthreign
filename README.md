@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ftthreign
-- 👀 I’m interested in front end developer (for now)
-- 🌱 I’m currently learning html,css
+- 👀 I’m interested in Software and Hardware
+- 🌱 I’m currently learning ////
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
