@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Violet]([https://bacaterus.com/wp-content/uploads/2023/01/Violet-Evergarden-Recollections_ft_.webp](https://cdn.custom-cursor.com/packs/2792/anime-violet-evergarden-and-letter-cursor-pack.png))
+![Violet](https://cdn.custom-cursor.com/packs/2792/anime-violet-evergarden-and-letter-cursor-pack.png)
 
 
 
