@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
-![Violet](https://e7.pngegg.com/pngimages/986/430/png-clipart-violet-evergarden-anime-kyoto-animation-last-period-black-clover-anime-face-cg-artwork.png)
+![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=480)
 
 
 <!---
