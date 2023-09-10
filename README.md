@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
-![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=480){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=480){style="display: block; margin: 0 auto" }
 
 
 <!---
