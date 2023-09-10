@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
-![Violet](https://cdn.custom-cursor.com/packs/2792/anime-violet-evergarden-and-letter-cursor-pack.png](https://w7.pngwing.com/pngs/110/404/png-transparent-violet-evergarden-desktop-anime-anime-black-hair-violet-fictional-character.png)
+![Violet](https://w7.pngwing.com/pngs/110/404/png-transparent-violet-evergarden-desktop-anime-anime-black-hair-violet-fictional-character.png)
 
 
 <!---
