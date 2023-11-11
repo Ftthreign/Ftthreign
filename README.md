@@ -17,4 +17,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Fadhil Abdul Fattah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)--->
+<a href="https://github.com/Ftthreign">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout&theme=tokyonight" />
+</a>
