@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ////
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0FF71C&center=true&random=true&width=435&lines=My+name+is+Fadhil+Abdul+Fattah)](https://github.com/Ftthreign)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0FF71C&center=true&random=true&width=435&lines=Hi!!!+My+name+is+Fadhil+Abdul+Fattah)](https://github.com/Ftthreign)
 ![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=720)
 <br>
 <br>
