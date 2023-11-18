@@ -24,3 +24,4 @@ You can click the Preview link to take a look at your changes.
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftthreign&repo=image-processing-python&theme=tokyonight)](https://github.com/Ftthreign/image-processing-python)
 --->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
