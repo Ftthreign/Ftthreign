@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/Ftthreign)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/Ftthreign)
 <br>
 <br>
 <!--
