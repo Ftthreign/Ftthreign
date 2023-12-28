@@ -17,14 +17,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Fadhil Abdul Fattah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 --->
-<details>
-  <summary><b>Stats</b></summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/Ftthreign)
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)](https://github.com/Ftthreign)
-</details>
 
-<br>
-<br>
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ftthreign&repo=image-processing-python&theme=tokyonight)](https://github.com/Ftthreign/image-processing-python)
 --->
