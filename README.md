@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>Stats</b></summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6)]
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)]
+<!---[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)]--->
 </details>
 
 <br>
