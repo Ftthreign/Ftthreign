@@ -5,7 +5,7 @@
 - 📫 How to reach me ...-->
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0FF71C&center=true&random=true&width=435&lines=Hi!!!+My+name+is+Fadhil+Abdul+Fattah)](https://github.com/Ftthreign)-->
 <!--![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=720)-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=18F768&center=true&repeat=false&random=false&width=435&lines=Hi!!!+My+Name+is+Fadhil+Abdul+Fattah)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=18F768&center=true&repeat=false&random=false&width=435&lines=Hi!!!+My+Name+is+Fadhil+Abdul+Fattah)]
 <br>
 <br>
 <br>
