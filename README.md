@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<details>
+<details align="center">
   <summary><b>Stats</b></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/Ftthreign)
