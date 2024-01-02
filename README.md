@@ -5,23 +5,8 @@
 - 📫 How to reach me ...-->
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0FF71C&center=true&random=true&width=435&lines=Hi!!!+My+name+is+Fadhil+Abdul+Fattah)](https://github.com/Ftthreign)-->
 <!--![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=720)-->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=18F768&center=true&repeat=false&random=false&width=435&lines=Hi!!!+My+Name+is+Fadhil+Abdul+Fattah)
-<br>
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=18F768&center=true&repeat=false&random=false&width=435&lines=Hi!!!+My+Name+is+Fadhil+Abdul+Fattah)](https://github.com/Ftthreign)
 
-<!---
-Ftthreign/Ftthreign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
-<h1 align="center">Hi 👋, I'm Fadhil Abdul Fattah</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
---->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/Ftthreign)
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)](https://github.com/Ftthreign)
--->
 <details>
   <summary><b>Stats</b></summary>
 
