@@ -8,10 +8,14 @@
 <p align="right"><b>&#9499</b></p>
 <details align="center">
   <summary><b>Stats</b></summary>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/Ftthreign)
+<a href="https://github.com/Ftthreign"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ftthreign&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"></a> ||
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6"></a>
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)
+
 </details>
 
 <!--
