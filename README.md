@@ -14,6 +14,9 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)
 
+
+<a href="https://wakatime.com/@94da6ce2-ef37-4e01-a417-0852a7114497"><img src="https://wakatime.com/badge/user/94da6ce2-ef37-4e01-a417-0852a7114497.svg" alt="Total time coded since Aug 14 2023" /></a>
+
 </details>
 
 <!--
