@@ -15,6 +15,19 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 23 March 2025 - To: 30 March 2025
+
+Total Time: 2 hrs 59 mins
+
+JavaScript   2 hrs 25 mins   ████████████████████▃▁▁▁▁   80.97 %
+Markdown     26 mins         ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.65 %
+JSON         6 mins          ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.59 %
+Kotlin       0 secs          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.45 %
+CSS          0 secs          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.31 %
+XML          0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com/@94da6ce2-ef37-4e01-a417-0852a7114497"><img src="https://wakatime.com/badge/user/94da6ce2-ef37-4e01-a417-0852a7114497.svg" alt="Total time coded since Aug 14 2023" /></a>
