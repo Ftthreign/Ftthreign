@@ -1,4 +1,3 @@
-<!--![Violet](https://melinanimeland.files.wordpress.com/2018/07/ve_ep6-000.png?w=720)-->
 <p><b>&#9487</b></p>
 <p align="center">
   <a href="https://github.com/Ftthreign">
@@ -14,10 +13,10 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <a href="https://wakatime.com/@94da6ce2-ef37-4e01-a417-0852a7114497"><img src="https://wakatime.com/badge/user/94da6ce2-ef37-4e01-a417-0852a7114497.svg" alt="Total time coded since Aug 14 2023" /></a>
 
 </details>
-
-<!--
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Ftthreign)-->
