@@ -13,12 +13,12 @@
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98510825" target="_blank" style="display: block" align="center">
+<!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98510825" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98510825&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @Ftthreign" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98510825&image_size=auto&color_scheme=dark" width="771" height="auto">
   </picture>
-</a>
+</a> -->
 
 <!--START_SECTION:waka-->
 
