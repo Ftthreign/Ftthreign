@@ -11,6 +11,8 @@
 
 <a href="https://github.com/Ftthreign"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ftthreign&show_icons=true&theme=radical&hide_border=true"></a> || <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftthreign&layout=compact&theme=tokyonight&langs_count=6"></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ftthreign&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ftthreign&bg_color=000000&color=ccf381&line=81efd3&point=fee715&area=true&hide_border=true)
 
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98510825" target="_blank" style="display: block" align="center">
