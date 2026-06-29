@@ -5,6 +5,20 @@
   </a>
 </p>
 <p align="right"><b>&#9499</b></p>
+
+<div align="center">
+<pre>
+    ________  __  __              _           
+   / ____/ /_/ /_/ /_  ________  (_)___ _____ 
+  / /_  / __/ __/ __ \/ ___/ _ \/ / __ `/ __ \
+ / __/ / /_/ /_/ / / / /  /  __/ / /_/ / / / /
+/_/    \__/\__/_/ /_/_/   \___/_/\__, /_/ /_/ 
+                                /____/        
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Ftthreign&theme=tokyonight&headerStyle=mac&typingSpeed=110&hostname=github.com&commands=whoami%2Cuptime%2Cps%2Cexit)](https://github.com/Ftthreign)
+</pre>
+</div>
+
 <details align="center">
   <summary><b>Stats</b></summary>
 <br>
