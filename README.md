@@ -27,7 +27,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ftthreign&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Ftthreign's GitHub activity graph](https://github-act-graph.rodriaum.com/graph?username=Ftthreign&days=31&theme=shadcn-dark&type=neon&area=true&grid=true&hide_title=false&hide_border=true&height=420&radius=0&color=4c5a9e)](https://github.com/Ftthreign)
+[![Ftthreign's GitHub activity graph](https://github-act-graph.rodriaum.com/graph?username=Ftthreign&days=31&theme=spiderman&type=neon&area=true&grid=true&show_point=true&hide_title=false&hide_y_axis=false&hide_border=true&height=420&radius=0)](https://github.com/Ftthreign)
 
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98510825" target="_blank" style="display: block" align="center">
   <picture>
